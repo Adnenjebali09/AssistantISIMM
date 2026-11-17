@@ -1,0 +1,10 @@
+.venv/
+.bootstrap/
+.runtime/
+.cache/
+models/
+.env
+__pycache__/
+*.pyc
+local/
+.ruff_cache/

@@ -1,0 +1,546 @@
+[
+  {
+    "conversation": 1,
+    "langue_stt": "fr",
+    "question": "Quels sont les départements de l’ISIMM ?",
+    "avant_2b": {
+      "réponse": "L’arrêté publié en avril 2022 énumère trois départements pour l’ISIMM : technologie, informatique et mathématiques.",
+      "secondes": 5.763,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "Les trois départements de l'ISIMM sont la technologie, l'informatique et les mathématiques.",
+      "secondes": 7.455,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Les départements sont la technologie, l'informatique et les mathématiques.",
+      "secondes": 1.325,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 1,
+    "langue_stt": "fr",
+    "question": "Et combien y en a-t-il ?",
+    "avant_2b": {
+      "réponse": "L’arrêté publié en avril 2022 énumère trois départements pour l’ISIMM : technologie, informatique et mathématiques.",
+      "secondes": 0.444,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "Il y a trois départements au sein de l'ISIMM.",
+      "secondes": 0.646,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Il y en a trois.",
+      "secondes": 0.799,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 1,
+    "langue_stt": "fr",
+    "question": "En quelle année l’arrêté qui les liste a-t-il été publié ?",
+    "avant_2b": {
+      "réponse": "L’ISIMM est l’Institut supérieur d’informatique et de mathématiques de Monastir, rattaché à l’Université de Monastir.",
+      "secondes": 0.435,
+      "indices_absents": [
+        "2022"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "L'arrêté a été publié en avril 2022.",
+      "secondes": 0.716,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "L'arrêté a été publié en 2022.",
+      "secondes": 1.216,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 1,
+    "langue_stt": "fr",
+    "question": "Changeons de sujet. Explique-moi une pile en informatique avec un exemple.",
+    "avant_2b": {
+      "réponse": "Je n’ai pas de document vérifié qui réponde à cette question. Pouvez-vous préciser votre demande ou vous renseigner auprès de la scolarité ?",
+      "secondes": 0.501,
+      "indices_absents": [
+        "dernier|sommet|lifo|empil",
+        "exemple|assiette|livre|undo|annul|retir|dépil"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Une pile est une structure de données qui stocke les éléments dans l'ordre inverse, permettant d'en retirer le dernier ajouté (LIFO). Pour illustrer cela, imaginez un plateau où vous placez des plats : si vous retirez le plat le plus récent, c'est celui-ci qui sortira toujours en premier.",
+      "secondes": 1.521,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Une pile fonctionne sur le principe LIFO (Last In, First Out) où les éléments sont ajoutés et retirés par la même extrémité. Imagine un empileur de vaisselle : tu mets les assiettes les unes sur les autres, et pour en prendre une, tu dois toujours retirer celle du haut.",
+      "secondes": 2.2,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 1,
+    "langue_stt": "fr",
+    "question": "Et une file, dans quel ordre sortent les éléments ?",
+    "avant_2b": {
+      "réponse": "Je n’ai pas de document vérifié qui réponde à cette question. Pouvez-vous préciser votre demande ou vous renseigner auprès de la scolarité ?",
+      "secondes": 0.37,
+      "indices_absents": [
+        "premier|fifo"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Une file suit l'ordre FIFO (First In First Out), ce qui signifie que les éléments arrivent d'abord et sont retirés en premier. Par exemple, si vous placez des livres sur un étagère, le livre mis le plus tôt sera celui qu'on sortira avant tout autre chose.",
+      "secondes": 1.402,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Une file fonctionne sur le principe FIFO (First In, First Out) où les éléments entrent par un bout et sortent par l'autre. Imagine une file d'attente au guichet : la première personne arrivée est aussi la première à être servie.",
+      "secondes": 1.777,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 2,
+    "langue_stt": "fr",
+    "question": "Quel est le site web de l’ISIMM ?",
+    "avant_2b": {
+      "réponse": "Le gouvernorat de Monastir indique www.isimm.rnu.tn comme site de l’institut.",
+      "secondes": 0.486,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "Le site officiel de l'ISIMM est www.isimm.rnu.tn, indiqué par le gouvernorat de Monastir.",
+      "secondes": 1.054,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Le site officiel est www.isimm.rnu.tn. C'est celui indiqué par le gouvernorat de Monastir pour l'institut.",
+      "secondes": 1.688,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 2,
+    "langue_stt": "fr",
+    "question": "Comment organiser mon temps pour réviser deux matières cette semaine ?",
+    "avant_2b": {
+      "réponse": "Aucun emploi du temps daté n’est disponible dans la base.",
+      "secondes": 0.393,
+      "indices_absents": [
+        "révis|matière",
+        "créneau|jour|session|minute|alterne|priorit|bloc|planning|séance"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Pour réviser deux matières en une semaine, divisez votre journée en blocs de 45 minutes de concentration suivis de 10 minutes de pause active. Commencez par la matière qui vous demande le plus d'effort intellectuel pour maximiser votre énergie, puis passez à l'autre avec un peu moins de pression. Utilisez des flashcards ou des fiches synthétiques pour chaque sujet afin de réduire la charge mentale et de faciliter la mémorisation rapide.",
+      "secondes": 2.208,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Tu peux diviser ta semaine en deux blocs de trois jours dédiés à chaque matière, avec 20 minutes de pause active entre les sessions. Par exemple, révises le lundi et mardi la première matière, puis la deuxième du mercredi au vendredi, en terminant par un résumé rapide le samedi.",
+      "secondes": 2.101,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 2,
+    "langue_stt": "fr",
+    "question": "Il ne me reste que trente minutes. Comment les répartir ?",
+    "avant_2b": {
+      "réponse": "Aucun emploi du temps daté n’est disponible dans la base.",
+      "secondes": 0.346,
+      "indices_absents": [
+        "minute|min\\b|15|quinze|dix",
+        "révis|matière|exercice|chapitre|notion"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Flashcards (4 minutes). Notes (6 minutes). Review (20 minutes).",
+      "secondes": 1.97,
+      "indices_absents": [
+        "révis|matière|exercice|chapitre|notion"
+      ]
+    },
+    "apres_4b": {
+      "réponse": "Révision ciblée matière 1 (15 minutes). Pause active (6 minutes). Révision ciblée matière 2 (9 minutes).",
+      "secondes": 2.418,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 3,
+    "langue_stt": "fr",
+    "question": "Quel est mon horaire d’examen demain ?",
+    "avant_2b": {
+      "réponse": "Aucun emploi du temps daté n’est disponible dans la base.",
+      "secondes": 0.392,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "Aucun emploi du temps daté n’est disponible dans la base.",
+      "secondes": 1.047,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Je ne peux pas vérifier votre horaire d'examen. Aucun emploi du temps daté n'est disponible dans la base. Dites-moi ce que vous savez déjà et je vous aiderai à réfléchir.",
+      "secondes": 1.892,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 3,
+    "langue_stt": "fr",
+    "question": "Comment préparer un examen de maths quand je bloque sur les exercices ?",
+    "avant_2b": {
+      "réponse": "Aucun emploi du temps daté n’est disponible dans la base.",
+      "secondes": 0.427,
+      "indices_absents": [
+        "exercice",
+        "corrig|étape|exemple|simple|erreur|méthode|formule|solution"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Pour contourner le blocage, change de sujet ou utilise des flashcards pour réviser les concepts clés avant d'attaquer les exercices complexes.",
+      "secondes": 0.803,
+      "indices_absents": [
+        "corrig|étape|exemple|simple|erreur|méthode|formule|solution"
+      ]
+    },
+    "apres_4b": {
+      "réponse": "Pour ne pas bloquer, commencez par relire votre cours et faites des exercices simples pour réactiver la logique mathématique. Ensuite, essayez de résoudre un problème seul pendant 15 minutes avant de demander de l'aide ou regarder la solution. Cela vous permet de comprendre où se situe exactement votre difficulté sans frustration inutile.",
+      "secondes": 2.219,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 4,
+    "langue_stt": "fr",
+    "question": "Quels documents faut-il déposer pour mon inscription à l’ISIMM ?",
+    "avant_2b": {
+      "réponse": "Aucune procédure administrative actuelle n’a été déposée dans la base.",
+      "secondes": 0.426,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "Aucune procédure administrative actuelle n’a été déposée dans la base.",
+      "secondes": 0.881,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Je ne peux pas vous donner cette information car aucune procédure administrative n'est actuellement déposée dans la base. Il manque les détails vérifiés sur les documents requis pour votre inscription.",
+      "secondes": 1.78,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 4,
+    "langue_stt": "fr",
+    "question": "Aide-moi à rédiger une phrase polie pour demander cette liste à la scolarité.",
+    "avant_2b": {
+      "réponse": "Aucune procédure administrative actuelle n’a été déposée dans la base.",
+      "secondes": 0.35,
+      "indices_absents": [
+        "document|pièce",
+        "pourriez|pourrai|voudrais|possible|veuillez|souhaite|merci"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Je vous prie de bien vouloir me transmettre le formulaire d'inscription au cours des prochaines semaines afin que je puisse préparer ma demande avec précision.",
+      "secondes": 0.735,
+      "indices_absents": [
+        "document|pièce",
+        "pourriez|pourrai|voudrais|possible|veuillez|souhaite|merci"
+      ]
+    },
+    "apres_4b": {
+      "réponse": "Vous pouvez écrire : « Bonjour, pourriez-vous m'indiquer quels documents sont nécessaires pour mon inscription à l'ISIMM ? » Cela reste poli et direct sans être exigeant.",
+      "secondes": 1.392,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 5,
+    "langue_stt": "en",
+    "question": "What is the difference between RAM and storage?",
+    "avant_2b": {
+      "réponse": "RAM (Random Access Memory) holds active data temporarily while Storage stores permanent files and programs on hard drives or SSDs. Both are essential components of a computer system, but RAM speeds up processing speed, whereas Storage saves your work for later use.",
+      "secondes": 1.129,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "RAM (Random Access Memory) acts as temporary, volatile workspace where your computer instantly loads active programs and data for fast processing, while storage like SSDs or HDDs serves as permanent, non-volatile backup holding files and software indefinitely. For instance, if you close a browser tab, the image in RAM disappears immediately, but it remains on your hard drive until you reopen the app.",
+      "secondes": 1.697,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "RAM acts like a fast temporary workspace where your computer keeps active data for quick access, while storage is like a large, slower archive that holds everything permanently. For example, when you open a game, it loads into RAM to run smoothly but saves the actual game files on your hard drive or SSD so they aren't lost when you turn off the computer.",
+      "secondes": 2.208,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 5,
+    "langue_stt": "en",
+    "question": "Which one loses its contents when I power off?",
+    "avant_2b": {
+      "réponse": "RAM loses all data immediately when you power off, while Storage retains your files and programs until they are explicitly deleted or overwritten by new data.",
+      "secondes": 0.73,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "RAM loses all active data instantly when you turn off power because it is volatile memory designed for temporary use only. In contrast, storage like an SSD or HDD retains your files and programs even after the device shuts down, as long as the power remains on until a reboot occurs.",
+      "secondes": 1.229,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "RAM loses all its data immediately when you power off, whereas storage retains your files even after a shutdown. Think of RAM as an empty desk that disappears when you leave the room, while storage is like a locked filing cabinet that stays closed and safe.",
+      "secondes": 1.625,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 6,
+    "langue_stt": "ar",
+    "question": "ما هي أقسام المعهد؟",
+    "avant_2b": {
+      "réponse": "يذكر القرار المنشور في أفريل 2022 ثلاثة أقسام بالمعهد: قسم التكنولوجيا، وقسم الإعلامية، وقسم الرياضيات.",
+      "secondes": 0.445,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "يذكر القرار المنشور في أفريل 2022 ثلاثة أقسام بالمعهد: قسم التكنولوجيا، وقسم الإعلامية، وقسم الرياضيات.",
+      "secondes": 1.121,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "يذكر القرار المنشور في أفريل 2022 ثلاثة أقسام بالمعهد: قسم التكنولوجيا، وقسم الإعلاميات، وقسم الرياضيات.",
+      "secondes": 1.714,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 6,
+    "langue_stt": "ar",
+    "question": "وفي أي سنة صدر القرار؟",
+    "avant_2b": {
+      "réponse": "المعهد العالي للإعلامية والرياضيات بالمنستير مؤسسة تابعة لجامعة المنستير.",
+      "secondes": 0.449,
+      "indices_absents": [
+        "2022|٢٠٢٢"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "صدر القرار في عام 2022.",
+      "secondes": 0.546,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "صدر القرار في أفريل 2022.",
+      "secondes": 0.965,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 7,
+    "langue_stt": "ar",
+    "question": "شنوّة الفرق بين pile و file في informatique؟",
+    "avant_2b": {
+      "réponse": "يذكر القرار المنشور في أفريل 2022 ثلاثة أقسام بالمعهد: قسم التكنولوجيا، وقسم الإعلامية، وقسم الرياضيات.",
+      "secondes": 0.383,
+      "indices_absents": [
+        "آخر|الأخير|لاخر|LIFO|لخر",
+        "أول|اول|FIFO|لوّل|لول"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "في الـ Python، الـ `stack` يعني الـ `pile` لأن كل عنصر يدخل ويخرج من نفس النقطة (LIFO)، بينما الـ `queue` يعني الـ `file` لأن العناصر تدخل وتخرج من طرفين مختلفين (FIFO).",
+      "secondes": 1.294,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "الفرق بينهم هو أن pile تعمل على مبدأ آخر الأخير أول (LIFO) زي المكدس، أما file فتعمل على مبدأ أول أول (FIFO) زي الطابور. مثلاً لو عندك ملفات في pile، الأولى اللي تضيفها هي الأولى اللي تستخرجها، لكن في file العكس تماماً.",
+      "secondes": 2.239,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 7,
+    "langue_stt": "ar",
+    "question": "عطيني مثال من الحياة اليومية على الثانية.",
+    "avant_2b": {
+      "réponse": "لا تتوفر لديّ وثيقة مؤكدة تجيب عن هذا السؤال. هل يمكنك توضيح طلبك أو الاستفسار لدى مصلحة شؤون الطلبة؟",
+      "secondes": 0.298,
+      "indices_absents": [
+        "طابور|تستنى|يستنى|ينتظر|الصف|الخبز|شباك|لاشان|queue|كيس|حريف|الانتظار|محل|مخبزة|صفّ"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "في المنستير، لو كنت تمشي في الشارع، كل مرة تتوقف عن المشي لتتحدث مع شخص أو تنظر لشيء معين، فهذا وقتك الثاني. مثلاً، لو كنت تقضي ساعتين في المدرسة، فلو أن نصف ساعة فيها مشيت وربع ساعة نزلت من الطابق، فالوقت الثاني هو الوقت الذي تبقّته بعد هذه الحركة.",
+      "secondes": 1.788,
+      "indices_absents": [
+        "طابور|تستنى|يستنى|ينتظر|الصف|الخبز|شباك|لاشان|queue|كيس|حريف|الانتظار|محل|مخبزة|صفّ"
+      ]
+    },
+    "apres_4b": {
+      "réponse": "مثلاً في file، تخيل طابور للخدمة العامة؛ أول اللي يقف هو أول اللي يخدمه (FIFO). أما pile فمثل المكدس اللي ترميه الكتب عليه، آخر اللي وضعته هو الأول اللي تخرجه.",
+      "secondes": 1.856,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 8,
+    "langue_stt": "fr",
+    "question": "Où se trouve la salle de mon prochain TP ?",
+    "avant_2b": {
+      "réponse": "Aucun plan validé des salles et laboratoires n’est disponible.",
+      "secondes": 0.404,
+      "indices_absents": []
+    },
+    "apres_2b": {
+      "réponse": "Aucun plan validé des salles et laboratoires n’est disponible.",
+      "secondes": 1.017,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Je ne peux pas vous donner l'adresse car aucun plan des salles n'est disponible. Je ne connais pas votre groupe ni le lieu exact du prochain TP.",
+      "secondes": 1.596,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 8,
+    "langue_stt": "fr",
+    "question": "Quelles compétences mettre dans un CV pour un stage en développement ?",
+    "avant_2b": {
+      "réponse": "Le calendrier et les formalités des stages et projets sont à demander à la scolarité.",
+      "secondes": 0.407,
+      "indices_absents": [
+        "langage|logiciel|Python|Git|programm|technolog|base de donn|débog|test unitaire|API"
+      ]
+    },
+    "apres_2b": {
+      "réponse": "Pour un stage en développement, mettez en avant vos compétences techniques comme la gestion de version (Git), les bases de données (SQL) ou les langages de programmation (Python, Java, etc.), ainsi que votre capacité à résoudre des problèmes complexes. Un exemple concret serait d'ajouter \"Gestion de base de données\" dans le champ \"Compétences\", car cela montre que vous maîtrisez l'architecture et la maintenance des systèmes.",
+      "secondes": 2.006,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Pour un stage en développement, mettez en avant vos connaissances techniques comme les langages de programmation (Python, Java), les frameworks (React, Spring) et les bases de données, ainsi que des compétences transverses comme la résolution de problèmes ou le travail d'équipe. Par exemple, listez \"Développement web avec JavaScript\" et \"Collaboration via Git\" pour montrer votre capacité à coder et travailler en équipe.",
+      "secondes": 2.822,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 9,
+    "langue_stt": "fr",
+    "question": "Propose deux objets de mail pour demander un stage en développement web.",
+    "apres_2b": {
+      "réponse": "Objet 1 : Demande de stage en développement web – [Votre Nom]  \nObjet 2 : Candidature stage web junior – [Votre Nom]",
+      "secondes": 0.8,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Voici deux modèles d'objets clairs et percutants : « Candidature stage dév web – [Votre nom] » et « Stage développeur junior – Portfolio disponible ». Ces sujets permettent à l'entreprise de savoir immédiatement de quoi il s'agit tout en vous identifiant.",
+      "secondes": 1.938,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 10,
+    "langue_stt": "fr",
+    "question": "Quelle est la différence entre un compilateur et un interpréteur ?",
+    "apres_2b": {
+      "réponse": "Un compilateur transforme le code source en machine code exécutable immédiatement, tandis qu'un interpréteur exécute ligne par ligne le code source sans le traduire à l'avance. Par exemple, Python est interprété, mais C++ est compilé.",
+      "secondes": 1.216,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Un compilateur traduit tout le code entier en langage machine avant l'exécution, tandis qu'un interpréteur exécute le code ligne par ligne au fur et à mesure. Par exemple, Java utilise d'abord un compilateur pour créer du bytecode, puis un interpréteur (JVM) qui le lit et le transforme en instructions réelles.",
+      "secondes": 2.281,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 11,
+    "langue_stt": "fr",
+    "question": "Quel annuaire permet de rechercher une offre de formation universitaire ?",
+    "apres_2b": {
+      "réponse": "L'annuaire tunisien des offres de formations universitaires est le guide d'orientation 2025. Il se trouve sur la page dédiée à l'Annuaire du site officiel de l'institut.",
+      "secondes": 1.362,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Le Guide d'orientation 2025 renvoie à l'Annuaire tunisien des offres de formations universitaires. Vérifiez bien l'année de l'offre sélectionnée dans ce guide.",
+      "secondes": 2.158,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 12,
+    "langue_stt": "ar",
+    "question": "هل المعهد حاصل على شهادة ISO حالياً؟",
+    "apres_2b": {
+      "réponse": "لا تتضمن الوثائق المتاحة شهادة جودة أو اسم مسؤول الجودة.",
+      "secondes": 0.946,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "لا توجد وثيقة تؤكد حصول المعهد على شهادة ISO حالياً.",
+      "secondes": 1.073,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 13,
+    "langue_stt": "fr",
+    "question": "Quel est le nom de la personne actuellement responsable de la qualité à l’ISIMM ?",
+    "apres_2b": {
+      "réponse": "Aucun document concernant une certification ou un responsable qualité n’a été fourni.",
+      "secondes": 0.789,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Je ne connais pas le nom du responsable qualité actuel. Aucun document n'a été fourni pour vérifier cette information.",
+      "secondes": 1.417,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 14,
+    "langue_stt": "en",
+    "question": "Suggest a way to remember a long list of vocabulary words.",
+    "apres_2b": {
+      "réponse": "The most effective method is the Spaced Repetition System (SRS), which schedules review at increasing intervals to move words from short-term to long-term memory. For example, if you have 100 new words, SRS might show them after 1 day, then 3 days, 7 days, and finally 14 days before the next session. This approach ensures you retain the vocabulary without wasting time on ineffective cramming or forgetting it entirely.",
+      "secondes": 2.06,
+      "indices_absents": []
+    },
+    "apres_4b": {
+      "réponse": "Create flashcards with the word on one side and its definition plus an image on the other, then review them using spaced repetition software like Anki for 15 minutes daily. This method leverages dual coding and memory scheduling to move terms from short-term to long-term retention effectively.",
+      "secondes": 1.843,
+      "indices_absents": []
+    }
+  },
+  {
+    "conversation": 15,
+    "langue_stt": "ar",
+    "question": "نحب نراجع في نص ساعة، كيفاش نقسم وقتي؟",
+    "apres_2b": {
+      "réponse": "تفكير (10 دقيقة)، كتابة (10 دقيقة)، استماع (10 دقيقة).",
+      "secondes": 2.091,
+      "indices_absents": [
+        "راجع|مراجع|تمرين|دروس|درس|قراءة|قراية|اقرا|تمارين|حفظ"
+      ]
+    },
+    "apres_4b": {
+      "réponse": "قراءة النص (6 دقيقة)، تحليل الجمل الرئيسية (9 دقيقة)، تطبيق المفاهيم في مثال عملي (9 دقيقة)، مراجعة سريعة ومناقشة (6 دقيقة).",
+      "secondes": 2.979,
+      "indices_absents": []
+    }
+  }
+]

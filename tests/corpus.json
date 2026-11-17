@@ -1,0 +1,9 @@
+[
+ {"id":"fr","lang":"fr","text":"Quels sont les départements de l'institut ?"},
+ {"id":"en","lang":"en","text":"Where can I find my timetable for this semester?"},
+ {"id":"ar","lang":"ar","text":"أين أجد جدول الدروس لهذا الأسبوع؟"},
+ {"id":"tn","lang":"ar","text":"وين نلقى توقيت القراية متاع الأسبوع الجاي؟"},
+ {"id":"mix","lang":"fr","text":"بالله وين نلقى le planning des examens ?"},
+ {"id":"short","lang":"fr","text":"Quel horaire ?"},
+ {"id":"long","lang":"fr","text":"Je suis en première année et je voudrais savoir à qui demander des renseignements sur les stages de fin d’études."}
+]

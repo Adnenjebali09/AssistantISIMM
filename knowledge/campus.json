@@ -1,0 +1,170 @@
+[
+  {
+    "id": "institut",
+    "status": "verified",
+    "tags": "ISIMM institut université présentation institute university المعهد جامعة منستير",
+    "text": "L’ISIMM est l’Institut supérieur d’informatique et de mathématiques de Monastir, rattaché à l’Université de Monastir.",
+    "source": "JORT n°46 du 26 avril 2022, article 8, p. 1257",
+    "url": "https://lake.jort.tn/journal-officiel/fr/2022/046.pdf",
+    "translations": {
+      "en": "ISIMM is the Higher Institute of Computer Science and Mathematics of Monastir, affiliated with the University of Monastir.",
+      "ar": "المعهد العالي للإعلامية والرياضيات بالمنستير مؤسسة تابعة لجامعة المنستير."
+    },
+    "phrases": [
+      "que signifie isimm",
+      "présentation de l’institut",
+      "which university",
+      "تابع لأي جامعة"
+    ]
+  },
+  {
+    "id": "departements",
+    "status": "verified",
+    "tags": "département départements departments أقسام الاقسام الأقسام department",
+    "text": "L’arrêté publié en avril 2022 énumère trois départements pour l’ISIMM : technologie, informatique et mathématiques.",
+    "source": "JORT n°46 du 26 avril 2022, article 8, p. 1257",
+    "url": "https://lake.jort.tn/journal-officiel/fr/2022/046.pdf",
+    "translations": {
+      "en": "The order published in April 2022 lists three departments: technology, computer science, and mathematics.",
+      "ar": "يذكر القرار المنشور في أفريل 2022 ثلاثة أقسام بالمعهد: قسم التكنولوجيا، وقسم الإعلامية، وقسم الرياضيات."
+    },
+    "phrases": [
+      "liste des départements",
+      "أقسام المعهد",
+      "اقسام المعهد",
+      "قرار الأقسام",
+      "arrêté",
+      "cet arrêté",
+      "صدر القرار"
+    ]
+  },
+  {
+    "id": "formations",
+    "status": "to_confirm",
+    "tags": "filière parcours diplôme licence master cursus formations programs تكوين إجازة",
+    "text": "L’offre de formation de l’année en cours reste à confirmer auprès de l’institut.",
+    "translations": {
+      "en": "The current academic year’s programmes still need confirmation from the institute.",
+      "ar": "يجب التثبت من عروض التكوين للسنة الحالية لدى المعهد."
+    },
+    "phrases": [
+      "offre de formation",
+      "degree programs",
+      "عروض التكوين"
+    ]
+  },
+  {
+    "id": "administration",
+    "status": "unavailable",
+    "tags": "inscription attestation scolarité administration certificat registration تسجيل",
+    "text": "Aucune procédure administrative actuelle n’a été déposée dans la base.",
+    "translations": {
+      "en": "No current administrative procedure is documented here.",
+      "ar": "لا توجد في قاعدة المعرفة إجراءات إدارية محيّنة."
+    },
+    "phrases": [
+      "pièces à fournir",
+      "student office",
+      "شهادة ترسيم",
+      "شهادة حضور"
+    ]
+  },
+  {
+    "id": "horaires",
+    "status": "unavailable",
+    "tags": "horaire planning schedule timetable توقيت رزنامة exam exams examen examens الامتحانات امتحان",
+    "text": "Aucun emploi du temps daté n’est disponible dans la base.",
+    "translations": {
+      "en": "There is no dated timetable or exam schedule in the local records.",
+      "ar": "لا يوجد في قاعدة المعارف جدول مؤرّخ للدروس أو الامتحانات."
+    },
+    "phrases": [
+      "emploi du temps",
+      "date de l’examen",
+      "exam time",
+      "exam schedule",
+      "جدول الدروس",
+      "جدول الامتحانات",
+      "توقيت القراية"
+    ]
+  },
+  {
+    "id": "salles",
+    "status": "unavailable",
+    "tags": "salle laboratoire labo room classroom قاعة مخبر",
+    "text": "Aucun plan validé des salles et laboratoires n’est disponible.",
+    "translations": {
+      "en": "No verified classroom or laboratory map is available.",
+      "ar": "لا يتوفر مخطط معتمد للقاعات والمخابر."
+    },
+    "phrases": [
+      "salle de tp",
+      "computer lab",
+      "قاعة الدرس"
+    ]
+  },
+  {
+    "id": "stages",
+    "status": "unavailable",
+    "tags": "stage PFE internship تدريب تربص",
+    "text": "Le calendrier et les formalités des stages et projets sont à demander à la scolarité.",
+    "translations": {
+      "en": "Ask the student office about internship and project dates and procedures.",
+      "ar": "يمكن الاستفسار لدى مصلحة شؤون الطلبة عن مواعيد التربصات والمشاريع وإجراءاتها."
+    },
+    "phrases": [
+      "مشروع ختم الدراسات",
+      "projet de fin d’études"
+    ]
+  },
+  {
+    "id": "clubs",
+    "status": "unavailable",
+    "tags": "association club clubs جمعية نوادي",
+    "text": "L’annuaire des associations et clubs actifs manque dans la base.",
+    "translations": {
+      "en": "The current list of active clubs is unavailable.",
+      "ar": "لا تتوفر قائمة محيّنة بالنوادي الناشطة."
+    }
+  },
+  {
+    "id": "qualite",
+    "status": "unavailable",
+    "tags": "qualité amélioration certification ISO quality جودة",
+    "text": "Aucun document concernant une certification ou un responsable qualité n’a été fourni.",
+    "translations": {
+      "en": "No record of certification or a designated quality officer is available here.",
+      "ar": "لا تتضمن الوثائق المتاحة شهادة جودة أو اسم مسؤول الجودة."
+    }
+  },
+  {
+    "id": "annuaire",
+    "status": "verified",
+    "tags": "annuaire formation formations programme filière parcours orientation offres catalogue",
+    "text": "Le guide d’orientation 2025 renvoie à l’Annuaire tunisien des offres de formations universitaires pour rechercher les diplômes et les établissements. Vérifiez l’année de l’offre sélectionnée.",
+    "source": "Guide de l’orientation universitaire 2025, rubrique Annuaire",
+    "url": "https://uma.rnu.tn/userfiles/files/reo/reo25/reo2026/guide_orien_fr_2025.pdf",
+    "reference": "https://uni-formation.rnu.tn/",
+    "translations": {
+      "en": "The 2025 orientation guide points students to the national university programme directory. Check the academic year of the entry.",
+      "ar": "يشير دليل التوجيه الجامعي لسنة 2025 إلى دليل عروض التكوين الجامعي التونسي. تثبّت من السنة الجامعية عند الاطلاع على العرض."
+    }
+  },
+  {
+    "id": "site",
+    "status": "verified",
+    "tags": "site web website موقع واب",
+    "text": "Le gouvernorat de Monastir indique www.isimm.rnu.tn comme site de l’institut.",
+    "source": "Gouvernorat de Monastir, fiche Université de Monastir",
+    "url": "https://g-monastir.tn/images/pdf_files/universite_monastir.pdf",
+    "translations": {
+      "en": "The governorate of Monastir lists www.isimm.rnu.tn as the institute’s website.",
+      "ar": "تذكر ولاية المنستير أن موقع المعهد هو www.isimm.rnu.tn."
+    },
+    "phrases": [
+      "site web",
+      "official website",
+      "الموقع الرسمي"
+    ]
+  }
+]

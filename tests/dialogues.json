@@ -1,0 +1,186 @@
+[
+  [
+    [
+      "fr",
+      "Quels sont les départements de l’ISIMM ?",
+      "technolog",
+      "informatique",
+      "math"
+    ],
+    [
+      "fr",
+      "Et combien y en a-t-il ?",
+      "trois|3"
+    ],
+    [
+      "fr",
+      "En quelle année l’arrêté qui les liste a-t-il été publié ?",
+      "2022"
+    ],
+    [
+      "fr",
+      "Changeons de sujet. Explique-moi une pile en informatique avec un exemple.",
+      "dernier|sommet|lifo|empil",
+      "exemple|assiette|livre|undo|annul|retir|dépil"
+    ],
+    [
+      "fr",
+      "Et une file, dans quel ordre sortent les éléments ?",
+      "premier|fifo"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Quel est le site web de l’ISIMM ?",
+      "isimm\\.rnu\\.tn"
+    ],
+    [
+      "fr",
+      "Comment organiser mon temps pour réviser deux matières cette semaine ?",
+      "révis|matière",
+      "créneau|jour|session|minute|alterne|priorit|bloc|planning|séance"
+    ],
+    [
+      "fr",
+      "Il ne me reste que trente minutes. Comment les répartir ?",
+      "minute|min\\b|15|quinze|dix",
+      "révis|matière|exercice|chapitre|notion"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Quel est mon horaire d’examen demain ?",
+      "\\bpas\\b|manqu|inconnu|aucun|dispos|vérifi|confirm",
+      "examen|emploi du temps|horaire|date"
+    ],
+    [
+      "fr",
+      "Comment préparer un examen de maths quand je bloque sur les exercices ?",
+      "exercice",
+      "corrig|étape|exemple|simple|erreur|méthode|formule|solution"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Quels documents faut-il déposer pour mon inscription à l’ISIMM ?",
+      "\\bpas\\b|aucun|confirm|vérifi|dispon|manqu|ignore",
+      "procédure|pièce|document|inscription"
+    ],
+    [
+      "fr",
+      "Aide-moi à rédiger une phrase polie pour demander cette liste à la scolarité.",
+      "document|pièce",
+      "pourriez|pourrai|voudrais|possible|veuillez|souhaite|merci"
+    ]
+  ],
+  [
+    [
+      "en",
+      "What is the difference between RAM and storage?",
+      "memory|RAM",
+      "temporary|volatile|power|permanent|persist|long.term"
+    ],
+    [
+      "en",
+      "Which one loses its contents when I power off?",
+      "RAM|volatile"
+    ]
+  ],
+  [
+    [
+      "ar",
+      "ما هي أقسام المعهد؟",
+      "تكنولوجيا|تقني",
+      "إعلام|معلوم|حاسوب",
+      "رياض"
+    ],
+    [
+      "ar",
+      "وفي أي سنة صدر القرار؟",
+      "2022|٢٠٢٢"
+    ]
+  ],
+  [
+    [
+      "ar",
+      "شنوّة الفرق بين pile و file في informatique؟",
+      "آخر|الأخير|لاخر|LIFO|لخر",
+      "أول|اول|FIFO|لوّل|لول"
+    ],
+    [
+      "ar",
+      "عطيني مثال من الحياة اليومية على الثانية.",
+      "طابور|تستنى|يستنى|ينتظر|الصف|الخبز|شباك|لاشان|queue|كيس|حريف|الانتظار|محل|مخبزة|صفّ"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Où se trouve la salle de mon prochain TP ?",
+      "\\bpas\\b|aucun|manqu|confirm|dispos|vérifi",
+      "salle|local|laboratoire|plan"
+    ],
+    [
+      "fr",
+      "Quelles compétences mettre dans un CV pour un stage en développement ?",
+      "langage|logiciel|Python|Git|programm|technolog|base de donn|débog|test unitaire|API"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Propose deux objets de mail pour demander un stage en développement web.",
+      "stage|candidature",
+      "web|développ"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Quelle est la différence entre un compilateur et un interpréteur ?",
+      "compil|exécutab|tradu",
+      "interpr|instruction"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Quel annuaire permet de rechercher une offre de formation universitaire ?",
+      "annuaire|uni-formation",
+      "formation"
+    ]
+  ],
+  [
+    [
+      "ar",
+      "هل المعهد حاصل على شهادة ISO حالياً؟",
+      "لا|غير|لم|تأكيد|تاكيد"
+    ]
+  ],
+  [
+    [
+      "fr",
+      "Quel est le nom de la personne actuellement responsable de la qualité à l’ISIMM ?",
+      "\\bpas\\b|aucun|confirm|ignore|connais|dispon|inconnu",
+      "nom|responsable|qualité|personne"
+    ]
+  ],
+  [
+    [
+      "en",
+      "Suggest a way to remember a long list of vocabulary words.",
+      "flashcard|spaced|repetition|recall|review|group|mnemonic|card"
+    ]
+  ],
+  [
+    [
+      "ar",
+      "نحب نراجع في نص ساعة، كيفاش نقسم وقتي؟",
+      "دق|ربع ساعة|نص ساعة|نصف ساعة",
+      "راجع|مراجع|تمرين|دروس|درس|قراءة|قراية|اقرا|تمارين|حفظ"
+    ]
+  ]
+]
